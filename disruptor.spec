@@ -1,6 +1,7 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          disruptor
 Version:       3.2.1
-Release:       2.1
+Release:       2.2
 Group:		Development/Java
 Summary:       Concurrent Programming Framework
 License:       ASL 2.0
