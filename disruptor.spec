@@ -1,6 +1,7 @@
 Name:          disruptor
 Version:       3.2.1
-Release:       2%{?dist}
+Release:       2.1
+Group:		Development/Java
 Summary:       Concurrent Programming Framework
 License:       ASL 2.0
 URL:           http://lmax-exchange.github.io/disruptor/
