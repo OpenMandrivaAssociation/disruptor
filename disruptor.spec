@@ -5,7 +5,7 @@ Release:       2.5
 Group:		Development/Java
 Summary:       Concurrent Programming Framework
 License:       ASL 2.0
-URL:           http://lmax-exchange.github.io/disruptor/
+URL:           https://lmax-exchange.github.io/disruptor/
 Source0:       https://github.com/LMAX-Exchange/disruptor/archive/%{version}.tar.gz
 Source1:       http://repo1.maven.org/maven2/com/lmax/%{name}/%{version}/%{name}-%{version}.pom
 
